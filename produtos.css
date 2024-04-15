@@ -1,5 +1,5 @@
 header {
-	background: #00fff2;
+	background: #676565;
 	padding: 20px 0;
 }
 
@@ -29,7 +29,7 @@ nav a {
 }
 
 nav a:hover {
-	color: #000000;
+	color: #28d51f;
 	text-decoration: underline;
 }
 
@@ -52,7 +52,8 @@ nav a:hover {
 }
 
 .produtos li:hover {
-	border-color: #000000;
+	border-color: #28d51f;
+	text-decoration: underline;
 }
 
 .produtos li:active {
@@ -79,13 +80,13 @@ nav a:hover {
 }
 footer {
 	text-align: center;
-	background: url("ARQUIVOS_BARBEARIA/bg.jpg") ;
+	background: url("img/bg.jpg") ;
 	padding: 40px 0;
-
+	color: red;
 }
 
 .copyright{
-	color: #ffffff;
+	color: white;
 	font-size: 13px;
 	margin: 20px 0 0;
 }

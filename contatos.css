@@ -1,5 +1,5 @@
 header {
-	background: #00fff2;
+	background: #676565;
 	padding: 20px 0;
 }
 
@@ -22,14 +22,14 @@ nav li {
 
 nav a {
 	text-transform: uppercase;
-	color: #000000;
+	color: black;
 	font-weight: bold;
 	font-size: 22px;
 	text-decoration: none;
 }
 
 nav a:hover {
-	color: #C78C19;
+	color: #28d51f;
 	text-decoration: underline;
 }
 
@@ -47,7 +47,7 @@ nav a:hover {
 	margin: 0 1.5%;
 	padding: 30px 20px;
 	box-sizing: border-box;
-	border: 2px solid #000000;
+	border: 2px solid black;
 	border-radius: 10px;
 }
 
@@ -79,16 +79,14 @@ nav a:hover {
 }
 
 footer {
-	
 		text-align: center;
-		background: url("ARQUIVOS_BARBEARIA/bg.jpg") ;
+		background: url("img/bg.jpg") ;
 		padding: 40px 0;
-	
-	
+		color: red;
 }
 
 .copyright {
-	color: #5100ff;
+	color: red;
 	font-size: 13px;
 	margin: 20px 0 0;
 }
